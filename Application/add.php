@@ -1,6 +1,6 @@
 <?php
 
-include("../conn/bd.php") ;
+include("conn/bd.php") ;
 
 if(isset($_POST['registra'])){
 
