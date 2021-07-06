@@ -1,7 +1,7 @@
 <?php
-include("../Tarea5/conn/bd.php") ;
- include("../Tarea5/includes/head.php") ;
- include("../Tarea5/includes/navbar.php") ;
+include("../conn/bd.php") ;
+ include("../includes/head.php") ;
+ include("../includes/navbar.php") ;
 
  if (isset($_GET['idsecreto'])) {
     $id = $_GET['idsecreto'];
@@ -123,4 +123,4 @@ include("../Tarea5/conn/bd.php") ;
                 $imagenPrevisualizacion.src = objectURL;
                 });
         </script>
-<?php include("../Tarea5/includes/footer.php") ;?>
+<?php include("../includes/footer.php") ;?>
