@@ -1,7 +1,7 @@
 
-<?php include("../Tarea5/conn/bd.php") ;
- include("../Tarea5/includes/head.php") ;
- include("../Tarea5/includes/navbar.php") ;
+<?php include("../conn/bd.php") ;
+ include("../includes/head.php") ;
+ include("../includes/navbar.php") ;
 
 
 ?>
@@ -62,4 +62,4 @@
 
 </div>
 
-<?php include("../Tarea5/includes/footer.php") ;?>
+<?php include("../includes/footer.php") ;?>
