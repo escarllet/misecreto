@@ -1,5 +1,5 @@
 <?php
-include("../conn/bd.php");
+include("conn/bd.php");
 
 if(isset($_GET['idsecreto'])){
     $id = $_GET['idsecreto'];
