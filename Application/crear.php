@@ -1,7 +1,7 @@
 
-<?php include("../Tarea5/conn/bd.php") ;?>
-<?php include("../Tarea5/includes/head.php") ;?>
-<?php include("../Tarea5/includes/navbar.php") ;?>
+<?php include("../conn/bd.php") ;?>
+<?php include("../includes/head.php") ;?>
+<?php include("../includes/navbar.php") ;?>
 
 <div class="container">
 
@@ -110,4 +110,4 @@
                 });
         </script>
 
-<?php include("../Tarea5/includes/footer.php") ;?>
+<?php include("../includes/footer.php") ;?>
