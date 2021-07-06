@@ -1,7 +1,7 @@
 
-<?php include("../conn/bd.php") ;?>
-<?php include("../includes/head.php") ;?>
-<?php include("../includes/navbar.php") ;?>
+<?php include("conn/bd.php") ;?>
+<?php include("includes/head.php") ;?>
+<?php include("includes/navbar.php") ;?>
 
 <div class="container">
 
