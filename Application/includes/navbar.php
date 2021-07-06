@@ -3,7 +3,7 @@
 <ul id="dropdown1" class="dropdown-content">
 
   <li class="divider"></li>
-  <li><a href="../login.php?mevoy=true">Cerrar sesion</a></li>
+  <li><a href="../index.php?mevoy=true">Cerrar sesion</a></li>
 </ul>
 <nav>
   <div class="nav-wrapper amber darken-3">
