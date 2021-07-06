@@ -5,8 +5,8 @@ if(isset($_GET['mevoy'])){
 if(isset($_SESSION['correo'])){
     echo '<meta http-equiv = "refresh" content = " 0; url = inicio.php"/>';
 }
-include("../conn/bd.php") ;
-include("../includes/head.php") ;
+include("conn/bd.php") ;
+include("includes/head.php") ;
 ?>
     <nav>
     <div class="nav-wrapper  amber darken-3">
@@ -124,4 +124,4 @@ include("../includes/head.php") ;
         </div>
     </div>
 
-    <?php include("../includes/footer.php") ;?>
+    <?php include("includes/footer.php") ;?>
